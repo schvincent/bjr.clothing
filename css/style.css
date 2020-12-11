@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Roboto:wght@300&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/campus.css");
+
+@import url("components/card.css");
+
+@import url("components/team.css");
+
+@import url("components/bloc.css");
+
+h1, h2, h3{
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+body{
+	font-family: 'Lora', serif;
+	font-size: 20px;
+	margin:0px;
+}
+
+a{
+	text-decoration: none;
+}
+
+h2{
+	margin-top: 30px;
+}
+
+
